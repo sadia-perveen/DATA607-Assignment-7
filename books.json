@@ -1,0 +1,29 @@
+[
+ {
+   "Title": "Essentials of Classic Italian Cooking",
+   "Authors": "Marcella Hazan, Alfred A. Knopf",
+   "Type": "Hardcover",
+   "Price": "$35",
+   "Cuisine": "Italian",
+   "DatePublished": 1992,
+   "Genre": "Cookbook"
+ },
+ {
+   "Title": "Super Natural Every Day",
+   "Authors": "Heidi Swanson",
+   "Type": "Paperback",
+   "Price": "$23",
+   "Cuisine": "Vegetarian",
+   "DatePublished": 2011,
+   "Genre": "Cookbook"
+ },
+ {
+   "Title": "Mastering the Art of Chinese Cooking",
+   "Authors": "Eileen Yin-Fei Lo",
+   "Type": "Hardcover",
+   "Price": "$50",
+   "Cuisine": "Chinese",
+   "DatePublished": 2009,
+   "Genre": "Cookbook"
+ }
+]
